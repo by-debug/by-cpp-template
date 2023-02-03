@@ -49,7 +49,8 @@ using namespace std;
 
 #define lowbit(x) (x)&(-x)
 
-#define pb(x) push_back(x)
+#define pb push_back
+#define eb emplace_back
 
 #define setpoint(x) fixed << setprecision(x)
 
